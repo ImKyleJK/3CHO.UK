@@ -66,8 +66,8 @@ $(document).ready(function() {
     document.getElementById("three-av2").src = "https://yt3.googleusercontent.com/UMGZZMPQkM3kGtyW4jNE1GtpSrydfNJdbG1UyWTp5zeqUYc6-rton70Imm7B11RulRRuK521NQ=s900-c-k-c0x00ffffff-no-rj";
 
     setTimeout(function() {
-      document.getElementById("show-name").innerHTML = "3CHO's Dance Hits";
-      document.getElementById("show-date").innerHTML = "27th Feb @ 21:00 GMT";
+      document.getElementById("show-name").innerHTML = "2025 Summer Mix";
+      document.getElementById("show-date").innerHTML = "1st April @ 21:00 GMT";
       document.getElementById("show-bg").src = "_art_/asset-0005.png";
       document.getElementById("show-icon").innerHTML = "<div class='showImage' style='background-image: url(_art_/asset-0007.png)'></div>";
 
